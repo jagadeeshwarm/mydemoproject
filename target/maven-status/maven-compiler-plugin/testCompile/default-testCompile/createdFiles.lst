@@ -1,0 +1,8 @@
+com\ecomdata\DataReader.class
+com\ecomdata\DataReader$1.class
+base\testcomponents\BaseTest$1.class
+base\testcomponents\BaseTest.class
+com\bddframework\ErrorValidations.class
+com\bddframework\Ecomtest.class
+base\testcomponents\Listeners.class
+base\testcomponents\Retry.class

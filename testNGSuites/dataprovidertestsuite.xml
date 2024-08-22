@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Suite">
+
+<groups>
+<run>
+<include name="pusrchaseOrder"></include>
+</run>
+</groups>
+  
+     <test  thread-count="5" name="loginErrorValidation">
+    <classes>
+    <class name="com.bddframework.ErrorValidations"/>
+     </classes>
+  </test> 
+   <test thread-count="5" name="OrderCreationTest">
+    <classes>
+      <class name="com.bddframework.Ecomtest"/>
+     </classes>
+  </test>  <!-- Test -->
+</suite> <!-- Suite -->

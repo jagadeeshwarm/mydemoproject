@@ -1,0 +1,8 @@
+com\pageobjects\CartPage.class
+com\pageobjects\CheckoutPage.class
+com\pageobjects\ConfirmationPage.class
+com\pageobjects\LandingPage.class
+com\resuablecomponents\AbstractComponents.class
+com\resources\Reports.class
+com\pageobjects\OrderPage.class
+com\pageobjects\ProductCatalogue.class
