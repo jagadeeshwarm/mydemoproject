@@ -29,4 +29,11 @@ public class TestGit {
 		System.out.println("git3");
 		System.out.println("git4");
 	}
+	
+	public void gitmethod5() {
+		System.out.println("git1");
+		System.out.println("git2");
+		System.out.println("git3");
+		System.out.println("git4");
+	}
 }
